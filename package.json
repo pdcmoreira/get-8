@@ -6,16 +6,21 @@
   "scripts": {
     "test": "jest"
   },
-  "author": {
-    "name": "Pedro Moreira",
-    "email": "pdcmoreira@gmail.com"
-  },
+  "author": "Pedro Moreira <pdcmoreira@gmail.com>",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/pdcmoreira/get-8"
+    "url": "git+https://github.com/pdcmoreira/get-8.git"
   },
   "devDependencies": {
     "jest": "^27.5.1"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/pdcmoreira/get-8/issues"
+  },
+  "homepage": "https://github.com/pdcmoreira/get-8#readme",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {}
 }
