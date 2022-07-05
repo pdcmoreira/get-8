@@ -1,6 +1,6 @@
 Performance-focused retrieval of the number 8.
 
-Made by a special request for @ricardojcribeiro.
+Made by a special request for [@ricardojcribeiro](https://github.com/ricardojcribeiro).
 
 Happy birthday.
 
